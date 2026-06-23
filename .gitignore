@@ -1,0 +1,24 @@
+## Build outputs
+bin/
+obj/
+
+## IDE
+.vs/
+*.user
+
+## Database (auto-created on first run)
+*.db
+*.db-shm
+*.db-wal
+
+## Node
+node_modules/
+dist/
+
+## Environment
+.env
+.env.local
+
+## OS
+Thumbs.db
+.DS_Store
